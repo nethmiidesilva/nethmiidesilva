@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Nethmi!
 
-I am a computer engineering undergrad with a keen interest in AI/ML and data science. I'm currently exploring DevOps and MLOps to bridge innovation and operational excellence💡
+I am a computer engineering undergrad with a keen interest in AI/ML and data science. I'm currently exploring MLOps, DataOps and DevOps to bridge innovation and operational excellence💡
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nethmidesilva)[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nethmiidesilva)  
 
