@@ -16,7 +16,9 @@ I am a computer engineering undergrad with a keen interest in AI/ML and data sci
 
 ## Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nethmiidesilva&theme=radical&hide_border=true)
+# [![Nethmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=nethmiidesilva&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nethmiidesilva&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# ![](https://github-readme-streak-stats.herokuapp.com/?user=nethmiidesilva&theme=radical&hide_border=true)
+
+# ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nethmiidesilva&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
